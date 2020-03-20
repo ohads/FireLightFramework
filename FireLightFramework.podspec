@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FireLightFramework'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'FireLightFramework here to help you say.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ This libraray is here to help you say things to the console.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ohad@shultzu.com' => 'Ohad Shulz' }
-  s.source           = { :http => 'https://github.com/ohads/FireLightFramework/raw/1.0.1/FireLightFramework.zip' }
+  s.source           = { :http => 'https://github.com/ohads/FireLightFramework/raw/1.0.2/FireLightFramework.zip' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
