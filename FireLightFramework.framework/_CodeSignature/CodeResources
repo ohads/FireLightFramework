@@ -14,23 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tkeUgamJsv4fvS9EMcd0AgYu27M=
+		hL2nn4zIJ8SlFX/aldtAH+EDMEc=
 		</data>
-		<key>Modules/FireLightFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/FireLightFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		2Kcr54SlKMPjNNxngTcyq6yB6co=
+		xaciigOuYsSZ/J2DLO24xR3Kvsc=
 		</data>
-		<key>Modules/FireLightFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/FireLightFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WzJ7AnUO8LpaHLoEKXrXCckvtwU=
+		w1ykJzSaVk7IABdCDuodvKlJJZI=
 		</data>
-		<key>Modules/FireLightFramework.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/FireLightFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		2Kcr54SlKMPjNNxngTcyq6yB6co=
+		xaciigOuYsSZ/J2DLO24xR3Kvsc=
 		</data>
-		<key>Modules/FireLightFramework.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/FireLightFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		WzJ7AnUO8LpaHLoEKXrXCckvtwU=
+		w1ykJzSaVk7IABdCDuodvKlJJZI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -53,32 +53,32 @@
 			omtHEqWnk/wHYjqln90iFrByd57StdKBhjq/UCXEXoA=
 			</data>
 		</dict>
-		<key>Modules/FireLightFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/FireLightFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MzCkbU0Xd8swr6sUpU7GwkW2s6ET8wuJUmnz3DIUfys=
+			6VcY66hlT7bb3220MBGO555y6aso+0l18j9xdHK5BSc=
 			</data>
 		</dict>
-		<key>Modules/FireLightFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/FireLightFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IkDgcfc/D3Jq6TNCeoMv96xjWFfZ6ObxIPvsWh5ph9U=
+			TFmuxz6nL0p1GgEN0HKgXg5pBoW8k7V+Ul+VNX6f9lE=
 			</data>
 		</dict>
-		<key>Modules/FireLightFramework.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/FireLightFramework.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MzCkbU0Xd8swr6sUpU7GwkW2s6ET8wuJUmnz3DIUfys=
+			6VcY66hlT7bb3220MBGO555y6aso+0l18j9xdHK5BSc=
 			</data>
 		</dict>
-		<key>Modules/FireLightFramework.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/FireLightFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IkDgcfc/D3Jq6TNCeoMv96xjWFfZ6ObxIPvsWh5ph9U=
+			TFmuxz6nL0p1GgEN0HKgXg5pBoW8k7V+Ul+VNX6f9lE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
