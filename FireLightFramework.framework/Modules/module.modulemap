@@ -1,0 +1,11 @@
+framework module FireLightFramework {
+  umbrella header "FireLightFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module FireLightFramework.Swift {
+    header "FireLightFramework-Swift.h"
+    requires objc
+}
