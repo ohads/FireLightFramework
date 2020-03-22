@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/FireLightFramework-Swift.h</key>
 		<data>
-		TtR9lvBOtLeQQeh6CyLRNslHLxo=
+		Ux2lBvAjw6RDizaWnVBHWYfB4kQ=
 		</data>
 		<key>Headers/FireLightFramework.h</key>
 		<data>
@@ -14,23 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hL2nn4zIJ8SlFX/aldtAH+EDMEc=
+		HuB20Ft+I4blyIbPGvxOLg0mFfg=
+		</data>
+		<key>Modules/FireLightFramework.swiftmodule/arm.swiftdoc</key>
+		<data>
+		8QBMwz+pLrmxr7pGB5kYpL0KX4M=
+		</data>
+		<key>Modules/FireLightFramework.swiftmodule/arm.swiftmodule</key>
+		<data>
+		VhVBLd7leMfE/ZeJ4tWe5NyhwcA=
 		</data>
 		<key>Modules/FireLightFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		xaciigOuYsSZ/J2DLO24xR3Kvsc=
+		4I7u2eJ4UGfIEF7RCX4v+Ow3eyY=
 		</data>
 		<key>Modules/FireLightFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		fLskych3bEeNN2nCjLtdsl3r6tQ=
+		yOtsUm6JpXTJAJPB/FaxfqaLaao=
 		</data>
 		<key>Modules/FireLightFramework.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		xaciigOuYsSZ/J2DLO24xR3Kvsc=
+		4I7u2eJ4UGfIEF7RCX4v+Ow3eyY=
 		</data>
 		<key>Modules/FireLightFramework.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		fLskych3bEeNN2nCjLtdsl3r6tQ=
+		yOtsUm6JpXTJAJPB/FaxfqaLaao=
+		</data>
+		<key>Modules/FireLightFramework.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<data>
+		8QBMwz+pLrmxr7pGB5kYpL0KX4M=
+		</data>
+		<key>Modules/FireLightFramework.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<data>
+		VhVBLd7leMfE/ZeJ4tWe5NyhwcA=
+		</data>
+		<key>Modules/FireLightFramework.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		8QBMwz+pLrmxr7pGB5kYpL0KX4M=
+		</data>
+		<key>Modules/FireLightFramework.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		VhVBLd7leMfE/ZeJ4tWe5NyhwcA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -41,48 +65,142 @@
 	<dict>
 		<key>Headers/FireLightFramework-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Ux2lBvAjw6RDizaWnVBHWYfB4kQ=
+			</data>
 			<key>hash2</key>
 			<data>
-			wBRKIJDhLNkaDYRsi42sphi389RMH0QHeR6I0HJyywg=
+			IF3JSplSLOMNDIOgiAqT7JGtRnGVLQrnmB1X0OhJ1TU=
 			</data>
 		</dict>
 		<key>Headers/FireLightFramework.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Hr9NnqROjGf8xyJXOg5nONlxNo4=
+			</data>
 			<key>hash2</key>
 			<data>
 			omtHEqWnk/wHYjqln90iFrByd57StdKBhjq/UCXEXoA=
 			</data>
 		</dict>
-		<key>Modules/FireLightFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<key>Modules/FireLightFramework.swiftmodule/arm.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			8QBMwz+pLrmxr7pGB5kYpL0KX4M=
+			</data>
 			<key>hash2</key>
 			<data>
-			6VcY66hlT7bb3220MBGO555y6aso+0l18j9xdHK5BSc=
+			KGzPQus7z7ZQMlKWsldlsmmNc0u+rs9LA7D4ChCzOdM=
+			</data>
+		</dict>
+		<key>Modules/FireLightFramework.swiftmodule/arm.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VhVBLd7leMfE/ZeJ4tWe5NyhwcA=
+			</data>
+			<key>hash2</key>
+			<data>
+			5gJ6c7063Wa2idEhSlgC54wPahl2tIx0Fx31bk5qEE4=
+			</data>
+		</dict>
+		<key>Modules/FireLightFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4I7u2eJ4UGfIEF7RCX4v+Ow3eyY=
+			</data>
+			<key>hash2</key>
+			<data>
+			DiCrGWiUUlRAN6tk9cMXlDLo4zKq+XVBld2PokO5tXg=
 			</data>
 		</dict>
 		<key>Modules/FireLightFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yOtsUm6JpXTJAJPB/FaxfqaLaao=
+			</data>
 			<key>hash2</key>
 			<data>
-			R9aFVc98WZPeKTZQBMaTGEhp8eutKvDQt0JahbUpJwQ=
+			8efUf7Wktq1tlL4gQPBDpTNVcTTRPPNroMNZEtpRQ/A=
 			</data>
 		</dict>
 		<key>Modules/FireLightFramework.swiftmodule/arm64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			4I7u2eJ4UGfIEF7RCX4v+Ow3eyY=
+			</data>
 			<key>hash2</key>
 			<data>
-			6VcY66hlT7bb3220MBGO555y6aso+0l18j9xdHK5BSc=
+			DiCrGWiUUlRAN6tk9cMXlDLo4zKq+XVBld2PokO5tXg=
 			</data>
 		</dict>
 		<key>Modules/FireLightFramework.swiftmodule/arm64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yOtsUm6JpXTJAJPB/FaxfqaLaao=
+			</data>
 			<key>hash2</key>
 			<data>
-			R9aFVc98WZPeKTZQBMaTGEhp8eutKvDQt0JahbUpJwQ=
+			8efUf7Wktq1tlL4gQPBDpTNVcTTRPPNroMNZEtpRQ/A=
+			</data>
+		</dict>
+		<key>Modules/FireLightFramework.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8QBMwz+pLrmxr7pGB5kYpL0KX4M=
+			</data>
+			<key>hash2</key>
+			<data>
+			KGzPQus7z7ZQMlKWsldlsmmNc0u+rs9LA7D4ChCzOdM=
+			</data>
+		</dict>
+		<key>Modules/FireLightFramework.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VhVBLd7leMfE/ZeJ4tWe5NyhwcA=
+			</data>
+			<key>hash2</key>
+			<data>
+			5gJ6c7063Wa2idEhSlgC54wPahl2tIx0Fx31bk5qEE4=
+			</data>
+		</dict>
+		<key>Modules/FireLightFramework.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8QBMwz+pLrmxr7pGB5kYpL0KX4M=
+			</data>
+			<key>hash2</key>
+			<data>
+			KGzPQus7z7ZQMlKWsldlsmmNc0u+rs9LA7D4ChCzOdM=
+			</data>
+		</dict>
+		<key>Modules/FireLightFramework.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VhVBLd7leMfE/ZeJ4tWe5NyhwcA=
+			</data>
+			<key>hash2</key>
+			<data>
+			5gJ6c7063Wa2idEhSlgC54wPahl2tIx0Fx31bk5qEE4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0g6MFdljX2hgRHOLbbkACJC42Bk=
+			</data>
 			<key>hash2</key>
 			<data>
 			ILeqfFSvW4d6zeyhs3mvPy2nl6VNK220zPZ/63PyVgc=
